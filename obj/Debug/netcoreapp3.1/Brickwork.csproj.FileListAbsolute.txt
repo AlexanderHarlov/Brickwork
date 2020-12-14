@@ -1,0 +1,13 @@
+C:\Workspace\C#\Brickwork\bin\Debug\netcoreapp3.1\Brickwork.exe
+C:\Workspace\C#\Brickwork\bin\Debug\netcoreapp3.1\Brickwork.deps.json
+C:\Workspace\C#\Brickwork\bin\Debug\netcoreapp3.1\Brickwork.runtimeconfig.json
+C:\Workspace\C#\Brickwork\bin\Debug\netcoreapp3.1\Brickwork.runtimeconfig.dev.json
+C:\Workspace\C#\Brickwork\bin\Debug\netcoreapp3.1\Brickwork.dll
+C:\Workspace\C#\Brickwork\bin\Debug\netcoreapp3.1\Brickwork.pdb
+C:\Workspace\C#\Brickwork\obj\Debug\netcoreapp3.1\Brickwork.csprojAssemblyReference.cache
+C:\Workspace\C#\Brickwork\obj\Debug\netcoreapp3.1\Brickwork.AssemblyInfoInputs.cache
+C:\Workspace\C#\Brickwork\obj\Debug\netcoreapp3.1\Brickwork.AssemblyInfo.cs
+C:\Workspace\C#\Brickwork\obj\Debug\netcoreapp3.1\Brickwork.csproj.CoreCompileInputs.cache
+C:\Workspace\C#\Brickwork\obj\Debug\netcoreapp3.1\Brickwork.dll
+C:\Workspace\C#\Brickwork\obj\Debug\netcoreapp3.1\Brickwork.pdb
+C:\Workspace\C#\Brickwork\obj\Debug\netcoreapp3.1\Brickwork.genruntimeconfig.cache
