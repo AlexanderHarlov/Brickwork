@@ -11,3 +11,15 @@ C:\Workspace\C#\Brickwork\obj\Debug\netcoreapp3.1\Brickwork.csproj.CoreCompileIn
 C:\Workspace\C#\Brickwork\obj\Debug\netcoreapp3.1\Brickwork.dll
 C:\Workspace\C#\Brickwork\obj\Debug\netcoreapp3.1\Brickwork.pdb
 C:\Workspace\C#\Brickwork\obj\Debug\netcoreapp3.1\Brickwork.genruntimeconfig.cache
+D:\C#\Brickwork\bin\Debug\netcoreapp3.1\Brickwork.exe
+D:\C#\Brickwork\bin\Debug\netcoreapp3.1\Brickwork.deps.json
+D:\C#\Brickwork\bin\Debug\netcoreapp3.1\Brickwork.runtimeconfig.json
+D:\C#\Brickwork\bin\Debug\netcoreapp3.1\Brickwork.runtimeconfig.dev.json
+D:\C#\Brickwork\bin\Debug\netcoreapp3.1\Brickwork.dll
+D:\C#\Brickwork\bin\Debug\netcoreapp3.1\Brickwork.pdb
+D:\C#\Brickwork\obj\Debug\netcoreapp3.1\Brickwork.AssemblyInfoInputs.cache
+D:\C#\Brickwork\obj\Debug\netcoreapp3.1\Brickwork.AssemblyInfo.cs
+D:\C#\Brickwork\obj\Debug\netcoreapp3.1\Brickwork.csproj.CoreCompileInputs.cache
+D:\C#\Brickwork\obj\Debug\netcoreapp3.1\Brickwork.dll
+D:\C#\Brickwork\obj\Debug\netcoreapp3.1\Brickwork.pdb
+D:\C#\Brickwork\obj\Debug\netcoreapp3.1\Brickwork.genruntimeconfig.cache
