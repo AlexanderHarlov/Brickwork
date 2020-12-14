@@ -1,2 +1,4 @@
 # Brickwork
  
+This is my solution for the Brickwork assignment. The algorithm works by iterating the user's input data and generating a list of possible brick positions. These positions can be 
+between two different bricks from the first layer. After that a map filled with zeroes is created ( two-dimensional array ) and the possible brick positions are iterated. If the location of the brick contains zeroes on the map, we paste the brick and move on to place the next possible. If it is not placed, that means that some other brick is blocking it, so first a check if the layout is completed is performed, and then the next possible tile is going to be tested. If at the end of the iteration, there is no suitable layout, we start the iteration from another brick, making another layout. At the end, if no possible layout was found, there is no suitable solution.
